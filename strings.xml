@@ -1,0 +1,7 @@
+<resources>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Task Description</string>
+    <string name="save_task">Save Task</string>
+    <string name="app_name" />
+    <string name="add_task">add_task\n</string>
+</resources>
